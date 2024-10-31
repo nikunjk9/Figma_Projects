@@ -17,7 +17,7 @@ This low-fidelity design features a console buying page with sections for image,
 ![Introduction](https://github.com/nikunjk9/Figma_Projects/blob/main/Low%20fidelity.jpg)
 
 ### 02  High fidelity Console Buying Page
-The console buying page design features an organized layout with distinct sections. It prominently displays the product name and image, alongside features and pricing details. Users can select color options, read product descriptions, and easily add items to their cart or wishlist, enhancing the ov
+The console buying page design features an organized layout with distinct sections. It prominently displays the product name and image, alongside features and pricing details. Users can select color options, read product descriptions, and easily add items to their cart or wishlist, enhancing the overall experience
 
 ![Introduction](https://github.com/nikunjk9/Figma_Projects/blob/main/Console_Buy%20page.jpg)
 
